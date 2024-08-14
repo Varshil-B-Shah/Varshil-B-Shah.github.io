@@ -4,13 +4,14 @@ import { IoMdArrowDropdown } from "react-icons/io";
 
 const Navbar = () => {
   return (
-    <div>
+    <div className="mb-1">
       <div className="h-20 md:flex justify-center items-center w-svw lg:px-14 py-3 hidden">
         <div className="lg:flex-1">
           <img
             src="nexcent-logo.png"
             alt="Nexcent logo"
-            className="scale-[0.65] p-4 md:m-0"
+            className="scale-[0.65] p-4 md:m-0 cursor-pointer"
+            href="/"
           />
         </div>
         <div className="lg:mr-14 md:mr-16 lg:p-2 hidden md:flex">
