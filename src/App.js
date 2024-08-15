@@ -3,6 +3,7 @@ import Navbar from "./components/Navbar";
 import Illustration from "./components/Illustration";
 import Communities from "./components/Communities";
 import PixelGrade from "./components/PixelGrade";
+import Marketing from "./components/Marketing";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Illustration />
       <Communities />
       <PixelGrade />
+      <Marketing />
     </div>
   );
 }

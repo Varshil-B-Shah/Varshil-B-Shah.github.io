@@ -3,8 +3,8 @@ import React from "react";
 const PixelGrade = () => {
   return (
     <div className="mt-7 w-full pb-5">
-      <div className="lg:py-6 lg:px-28 md:px-0">
-        <div className="flex lg:pl-[5.25rem] md:gap-0 lg:gap-5 md:flex-row flex-col">
+      <div className="lg:py-6 lg:px-28 md:px-4">
+        <div className="flex lg:pl-[5.25rem] md:mr-0 md:gap-0 lg:gap-5 md:flex-row flex-col">
           <div className="flex items-center justify-center h-auto w-auto">
             <div className="md:h-full md:w-full flex items-center justify-center">
               <img
@@ -18,7 +18,7 @@ const PixelGrade = () => {
             <h1 className="lg:text-4xl md:text-3xl text-2xl font-semibold text-[#484545] lg:w-[500px] md:w-[400px] md:leading-[42px] leading-[30px] md:px-0 px-6">
               The unseen of spending three years at Pixelgrade
             </h1>
-            <p className="lg:w-[550px] md:w-[400px] md:ml-0 ml-4 lg:text-sm md:text-[0.8rem] text-[0.65rem] text-gray-500 px-20 md:px-0">
+            <p className="lg:w-[550px] md:w-[400px] md:ml-0 lg:text-sm md:text-[0.8rem] text-[0.65rem] text-gray-500 px-20 md:px-0">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit
               amet justo ipsum. Sed accumsan quam vitae est varius fringilla.
               Pellentesque placerat vestibulum lorem sed porta. Nullam mattis
