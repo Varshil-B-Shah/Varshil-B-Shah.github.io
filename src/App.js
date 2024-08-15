@@ -2,6 +2,7 @@ import React from "react";
 import Navbar from "./components/Navbar";
 import Illustration from "./components/Illustration";
 import Communities from "./components/Communities";
+import PixelGrade from "./components/PixelGrade";
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <Navbar />
       <Illustration />
       <Communities />
+      <PixelGrade />
     </div>
   );
 }
