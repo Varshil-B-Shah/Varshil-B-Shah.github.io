@@ -5,7 +5,7 @@ import { FiSend } from "react-icons/fi";
 
 const Footer = () => {
   return (
-    <div className="bg-[#253138] text-[#949494] py-10 sm:py-16 font-titleFont w-svw">
+    <div className="bg-[#253138] text-[#949494] py-10 sm:py-16 font-titleFont w-full overflow-hidden">
       <div className="max-w-screen-xl mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 lg:gap-8 md:gap-4">
         <div className="flex flex-col gap-8 items-center sm:items-start md:ml-2">
           <img
@@ -75,7 +75,7 @@ const Footer = () => {
           <div className="flex gap-0 items-center justify-center md:mr-7 lg:mr-0">
             <input
               placeholder="Your email address"
-              className="p-2 bg-[#585c64] md:ml-5 ml-5 lg:ml-0 lg:mr-10 md:mr-0 rounded-md lg:w-[250px] md:w-[170px] focus-visible:ring-0 focus-visible:ring-offset-0 focus-visible:border-0"
+              className="p-2 bg-[#585c64] text-white md:ml-5 ml-5 lg:ml-0 lg:mr-10 md:mr-0 rounded-md lg:w-[250px] md:w-[170px] focus-visible:ring-0 focus-visible:ring-offset-0 focus-visible:border-0"
             />
             <p className="text-white relative z-10 right-5 md:top-[0.2rem] lg:right-16 lg:bottom-3 hover:text-neutral-300 transition duration-300 cursor-pointer">
               <FiSend />
