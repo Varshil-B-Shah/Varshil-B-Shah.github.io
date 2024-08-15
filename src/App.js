@@ -4,6 +4,7 @@ import Illustration from "./components/Illustration";
 import Communities from "./components/Communities";
 import PixelGrade from "./components/PixelGrade";
 import Marketing from "./components/Marketing";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Communities />
       <PixelGrade />
       <Marketing />
+      <Footer />
     </div>
   );
 }

@@ -23,7 +23,7 @@ const Marketing = () => {
               alt="Marketing 1"
               className="lg:w-[380px] md:w-[300px] md:h-[250px] h-[200px] w-[300px]"
             />
-            <div className="lg:w-[350px] md:w-[200px] w-[250px] h-[120px] md:h-[125px] lg:h-auto group relative overflow-hidden cursor-pointer md:-top-[5.3rem] md:left-[0.857rem] -top-[4.5rem] left-[1.5rem] z-10 border-[1px] border-gray-100 bg-[#f6f3f8] rounded-lg shadow-md hover:shadow-xl md:px-4 px-2 lg:pt-3 md:pt-3 py-2 lg:pb-5 md:pb-5 pb-3 mr-1 flex items-center justify-center flex-col lg:gap-2 gap-1 lg:overflow-hidden hover:scale-105 transition-all">
+            <div className="lg:w-[350px] md:w-[200px] w-[250px] h-[120px] md:h-[125px] lg:h-auto group relative overflow-hidden cursor-pointer md:-top-[5.3rem] md:left-[0.857rem] -top-[4.5rem] left-[1.5rem] z-10 border-[1px] border-gray-100 bg-[#f6f3f8] rounded-lg shadow-md hover:shadow-xl md:px-4 px-2 lg:pt-3 md:pt-3 py-2 lg:pb-5 md:pb-5 pb-3 mr-1 flex items-center justify-center flex-col lg:gap-2 gap-1 duration-300 hover:scale-105 transition-all">
               <h2 className="lg:text-xl md:text-[1rem] text-[0.9rem] font-semibold text-[#848484] text-center lg:w-[300px] md:w-[200px]">
                 Creating Streamlined Safeguarding Processes with OneRen
               </h2>
@@ -44,8 +44,8 @@ const Marketing = () => {
               alt="Marketing 2"
               className="lg:w-[380px] md:w-[300px] md:h-[250px] h-[200px] w-[300px]"
             />
-            <div className="lg:w-[350px] md:h-[125px] w-[250px] h-[120px] lg:h-auto group relative overflow-hidden cursor-pointer md:-top-[5.3rem] md:left-[0.857rem] -top-[4.5rem] left-[1.5rem] md:w-[200px] z-10 border-[1px] border-gray-100 bg-[#f6f3f8] rounded-lg shadow-md hover:shadow-xl md:px-4 px-2 lg:pt-3 md:pt-3 py-2 lg:pb-5 md:pb-5 pb-3 mr-1 flex items-center justify-center flex-col lg:gap-2 gap-1 lg:overflow-hidden hover:scale-105 transition-all">
-              <h2 className="lg:text-xl md:text-[0.9rem] text-[0.87rem] font-semibold text-[#848484] text-center lg:w-[300px] md:w-[200px] md:pt-3 lg:pt-0">
+            <div className="lg:w-[350px] md:h-[125px] w-[250px] h-[120px] lg:h-auto group relative overflow-hidden cursor-pointer md:-top-[5.3rem] md:left-[0.857rem] -top-[4.5rem] left-[1.5rem] md:w-[200px] z-10 border-[1px] border-gray-100 bg-[#f6f3f8] rounded-lg shadow-md hover:shadow-xl md:px-4 px-2 lg:pt-3 md:pt-3 py-2 lg:pb-5 md:pb-5 pb-3 mr-1 flex items-center justify-center flex-col lg:gap-2 gap-1 duration-300 hover:scale-105 transition-all">
+              <h2 className="lg:text-xl md:text-[0.9rem] text-[0.87rem] font-semibold text-[#848484] text-center lg:w-[270px] md:w-[200px] md:pt-3 lg:pt-0">
                 What are your safeguarding responsibilities and how can you
                 manage them?
               </h2>
@@ -66,7 +66,7 @@ const Marketing = () => {
               alt="Marketing 3"
               className="lg:w-[380px] md:w-[300px] md:h-[250px] h-[200px] w-[300px]"
             />
-            <div className="lg:w-[350px] md:h-[125px] w-[250px] h-[120px] lg:h-[157px] group relative overflow-hidden cursor-pointer md:-top-[5.3rem] md:left-[0.857rem] -top-[4.5rem] left-[1.5rem] md:w-[200px] z-10 border-[1px] border-gray-100 bg-[#f6f3f8] rounded-lg shadow-md hover:shadow-xl md:px-4 px-2 lg:pt-0 md:pt-3 py-2 lg:pb-5 md:pb-5 pb-3 mr-1 flex items-center justify-center flex-col lg:gap-2 gap-1 lg:overflow-hidden hover:scale-105 transition-all">
+            <div className="lg:w-[350px] md:h-[125px] w-[250px] h-[120px] lg:h-[157px] group relative overflow-hidden cursor-pointer md:-top-[5.3rem] md:left-[0.857rem] -top-[4.5rem] left-[1.5rem] md:w-[200px] z-10 border-[1px] border-gray-100 bg-[#f6f3f8] rounded-lg shadow-md hover:shadow-xl md:px-4 px-2 lg:pt-0 md:pt-3 py-2 lg:pb-5 md:pb-5 pb-3 mr-1 flex items-center justify-center flex-col lg:gap-2 gap-1 duration-300 hover:scale-105 transition-all">
               <h2 className="lg:text-xl md:text-[1rem] text-[0.9rem] font-semibold text-[#848484] text-center lg:w-[270px] md:w-[200px]">
                 Revamping the Membership Model with Triathlon Australia
               </h2>

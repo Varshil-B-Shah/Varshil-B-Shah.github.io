@@ -16,23 +16,23 @@ const Navbar = () => {
         </div>
         <div className="lg:mr-14 md:mr-16 lg:p-2 hidden md:flex">
           <ul className="md:flex items-center justify-center md:gap-5 lg:gap-10 gap-2">
-            <li className="font-bold text-xs md:text-base lg:text-base text-gray-700 hover:underline hover:underline-offset-1 hover:text-black cursor-pointer transition">
+            <li className="font-bold text-xs md:text-base lg:text-base duration-300 text-gray-700 hover:underline hover:underline-offset-1 hover:text-black cursor-pointer transition">
               Home
             </li>
-            <li className="font-bold text-xs md:text-base lg:text-base text-gray-700 hover:underline hover:underline-offset-1 hover:text-black cursor-pointer transition">
+            <li className="font-bold text-xs md:text-base lg:text-base duration-300 text-gray-700 hover:underline hover:underline-offset-1 hover:text-black cursor-pointer transition">
               Features
             </li>
-            <li className="font-bold text-xs md:text-base lg:text-base text-gray-700 hover:underline hover:underline-offset-1 hover:text-black cursor-pointer transition">
+            <li className="font-bold text-xs md:text-base lg:text-base duration-300 text-gray-700 hover:underline hover:underline-offset-1 hover:text-black cursor-pointer transition">
               Community
             </li>
-            <li className="font-bold text-xs md:text-base lg:text-base text-gray-700 hover:underline hover:underline-offset-1 hover:text-black cursor-pointer transition">
+            <li className="font-bold text-xs md:text-base lg:text-base duration-300 text-gray-700 hover:underline hover:underline-offset-1 hover:text-black cursor-pointer transition">
               Block
             </li>
-            <li className="font-bold text-xs md:text-base lg:text-base text-gray-700 hover:underline hover:underline-offset-1 hover:text-black cursor-pointer transition">
+            <li className="font-bold text-xs md:text-base lg:text-base duration-300 text-gray-700 hover:underline hover:underline-offset-1 hover:text-black cursor-pointer transition">
               Pricing
             </li>
             <li>
-              <button className="bg-green-600 rounded-lg lg:py-4 lg:px-9 md:py-2 md:px-4 text-white hover:bg-green-700 flex items-center justify-center gap-3 transition">
+              <button className="bg-green-600 rounded-lg lg:py-4 lg:px-9 md:py-2 md:px-4 text-white hover:bg-green-700 flex items-center duration-300 justify-center gap-3 transition">
                 <span className="lg:text-base hidden lg:flex">
                   Register Now
                 </span>
@@ -60,7 +60,7 @@ const Navbar = () => {
               <a href="/">Community</a>
               <a href="/">Block</a>
               <a href="/">Pricing</a>
-              <a href="/" className="flex bg-green-600 hover:text-white rounded-md  justify-center items-center" id="button">
+              <a href="/" className="flex bg-green-600 hover:text-white rounded-md duration-300 justify-center items-center" id="button">
                 Register Now{" "}
                 <span className="absolute top-[14.70rem] right-[1rem]">
                   <FaLongArrowAltRight />

@@ -26,7 +26,7 @@ const PixelGrade = () => {
               Etiam quis massa pulvinar, aliquam quam vitae, tempus sem. Donec
               elementum pulvinar odio.
             </p>
-            <button className="bg-[#50ac4c] text-sm md:text-base lg:mt-4 md:mt-3 mt-3 rounded-[0.3rem] lg:py-3 lg:px-7 md:py-2 py-2 md:px-4 px-2 md:mx-0 mx-28 text-white hover:bg-green-700 flex items-center justify-center transition">
+            <button className="bg-[#50ac4c] text-sm md:text-base lg:mt-4 md:mt-3 mt-3 rounded-[0.3rem] lg:py-3 lg:px-7 md:py-2 py-2 md:px-4 px-2 md:mx-0 mx-28 text-white hover:bg-green-700 flex items-center justify-center duration-300 transition">
                 Learn More
               </button>
           </div>

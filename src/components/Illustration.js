@@ -15,7 +15,7 @@ const Illustration = () => {
                 Where to grow your business as a photographer: site or social
                 media?
               </p>
-              <button className="bg-green-600 text-sm md:text-base md:mt-4 mt-2 rounded-md lg:py-4 lg:px-9 md:py-2 py-2 md:px-4 px-2 text-white hover:bg-green-700 flex items-center justify-center transition">
+              <button className="bg-green-600 text-sm md:text-base md:mt-4 mt-2 rounded-md lg:py-4 lg:px-9 md:py-2 py-2 md:px-4 px-2 text-white hover:bg-green-700 flex items-center justify-center transition duration-300">
                 Register
               </button>
             </div>
